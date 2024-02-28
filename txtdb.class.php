@@ -10,6 +10,7 @@
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
 
+#[AllowDynamicProperties]
 class txtdb {
 
 	/**
